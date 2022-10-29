@@ -1,0 +1,54 @@
+body,h1{
+    margin: 0;
+}
+h1{
+    text-transform: uppercase;
+    font-weight: 550;
+    font-size: 250px;
+    color: ghostwhite;
+    padding-top: 350px;
+}
+body{
+    font-family: 'Inter',sans-serif;
+    background-color: silver;
+}
+*{
+    box-sizing: border-box;
+}
+header{
+    height: 100vh;
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.overlay{
+    width: 100%;
+    height: 100%;
+}
+.textm{
+    color: rgb(255, 250, 250);
+    text-transform: uppercase;
+    font-size: 15px;
+    size: 200px;
+}
+.lasto{
+    text-transform: uppercase;
+    color: black;
+    margin-top: 300px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.track{
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+}
+.date{
+    padding-top: 180px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 100px;
+    size: 900px;
+    color: whitesmoke;
+}
